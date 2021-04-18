@@ -148,11 +148,10 @@ const FeaturesTiles = ({
                                 </div>
                                 <div className="features-tiles-item-content">
                                     <h4 className="mt-0 mb-8">
-                                        Robust Workflow
+                                        Kanari AS
                                     </h4>
                                     <p className="m-0 text-sm">
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                                        Kanari makes sure that complex IT systems work as intended and to best effect. We lead the way on stability and performance analytics (SPA) in the Nordic region.
                                     </p>
                                 </div>
                             </div>
