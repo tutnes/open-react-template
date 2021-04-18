@@ -18,6 +18,7 @@ phases:
     commands:
       - aws cloudfront create-invalidation --distribution-id "E3P8ZL5LHS9YAM" --paths "/*"
 
+
 # Artifacts will specify what files will be uploaded to s3
 # This will include all files within the "build" folder
 artifacts:
