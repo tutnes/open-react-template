@@ -170,7 +170,7 @@ const FeaturesTiles = ({
                                 </div>
                                 <div className="features-tiles-item-content">
                                     <h4 className="mt-0 mb-8">
-                                        Robust Workflow
+                                        Firma AS
                                     </h4>
                                     <p className="m-0 text-sm">
                                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
