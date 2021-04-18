@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <a href="mailto:tarjei@hey.com" onClick={closeMenu}>Send epost</a>
                     </li>
                   </ul>
 
