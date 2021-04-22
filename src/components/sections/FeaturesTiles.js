@@ -192,11 +192,13 @@ const FeaturesTiles = ({
                                 </div>
                                 <div className="features-tiles-item-content">
                                     <h4 className="mt-0 mb-8">
-                                        Robust Workflow
+                                        Solgt.no AS
                                     </h4>
                                     <p className="m-0 text-sm">
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                                        Boligsalg trenger ikke være så slitsomt<br/>
+                                        Du får et uforpliktende tilbud basert på vår teknologi og informasjonen du har gitt oss.
+                                        Tjenesten er tilgjengelig for selveier og andelsboliger i Oslo til en verdi under 10 millioner kroner.
+                                        Ingen visning, annonsering eller forberedelser er nødvendig.
                                     </p>
                                 </div>
                             </div>
